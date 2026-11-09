@@ -13,7 +13,7 @@ Two research projects from my Bachelor of Statistics at **Universitas Diponegoro
 
 *Undergraduate thesis · with Moch. Abdul Mukid & Diah Safitri (supervisors)* · 📄 [Read the manuscript](Jurnal%20Gaussian%201.pdf)
 
-![Cluster map of Indonesia](assets/peta-sebaran-klaster-indonesia.png)
+![Cluster map of Indonesia](Assets/peta-sebaran-klaster-indonesia.png)
 
 ### ❓ Question
 Indonesia's poverty rate was 8.47% in March 2025, but conditions differ widely between regions, so a one-size-fits-all national policy works poorly. **Which regencies and cities share similar poverty characteristics, so programs can be targeted?**
