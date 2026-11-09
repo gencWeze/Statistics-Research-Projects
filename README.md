@@ -42,12 +42,12 @@ I chose DENCLUE because it finds clusters of **irregular shape** and handles **o
 | 5 | Puncak Jaya | High poverty (35.5%) despite the best water access (93%) |
 | 6 | Tolikara | Multidimensional vulnerability: lowest education (13%), highest food-spending share (78%), lowest water and sanitation access |
 
-![Cluster characteristics](assets/denclue-cluster-profile.png)
+![Cluster characteristics](Assets/Karakteristik-klaster.png)
 
 ### 💡 Insight
 Almost every region outside Papua falls into Clusters 1–2. The vulnerable clusters sit in **inland and highland Papua**, while coastal areas such as Sorong, Merauke and Jayapura join the national pattern. Poverty is therefore **geographically concentrated, not random**, which supports policies designed around local characteristics rather than uniform national programs.
 
-![Cluster map of Papua](assets/denclue-map-papua.png)
+![Cluster map of Papua](Assets/sebaran-klaster-di-papua.png)
 
 ---
 
